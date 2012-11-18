@@ -1,0 +1,15 @@
+/usr/share/polycom-bootrom/2345-12200-001.bootrom.ld /var/lib/polycom-provision/2345-12200-001.bootrom.ld
+/usr/share/polycom-bootrom/2345-12200-002.bootrom.ld /var/lib/polycom-provision/2345-12200-002.bootrom.ld
+/usr/share/polycom-bootrom/2345-12200-004.bootrom.ld /var/lib/polycom-provision/2345-12200-004.bootrom.ld
+/usr/share/polycom-bootrom/2345-12200-005.bootrom.ld /var/lib/polycom-provision/2345-12200-005.bootrom.ld
+/usr/share/polycom-bootrom/2345-12360-001.bootrom.ld /var/lib/polycom-provision/2345-12360-001.bootrom.ld
+/usr/share/polycom-bootrom/2345-12365-001.bootrom.ld /var/lib/polycom-provision/2345-12365-001.bootrom.ld
+/usr/share/polycom-bootrom/2345-12375-001.bootrom.ld /var/lib/polycom-provision/2345-12375-001.bootrom.ld
+/usr/share/polycom-bootrom/2345-12450-001.bootrom.ld /var/lib/polycom-provision/2345-12450-001.bootrom.ld
+/usr/share/polycom-bootrom/2345-12500-001.bootrom.ld /var/lib/polycom-provision/2345-12500-001.bootrom.ld
+/usr/share/polycom-bootrom/2345-12560-001.bootrom.ld /var/lib/polycom-provision/2345-12560-001.bootrom.ld
+/usr/share/polycom-bootrom/2345-12600-001.bootrom.ld /var/lib/polycom-provision/2345-12600-001.bootrom.ld
+/usr/share/polycom-bootrom/2345-12670-001.bootrom.ld /var/lib/polycom-provision/2345-12670-001.bootrom.ld
+/usr/share/polycom-bootrom/3111-15600-001.bootrom.ld /var/lib/polycom-provision/3111-15600-001.bootrom.ld
+/usr/share/polycom-bootrom/3111-30900-001.bootrom.ld /var/lib/polycom-provision/3111-30900-001.bootrom.ld
+/usr/share/polycom-bootrom/3111-40000-001.bootrom.ld /var/lib/polycom-provision/3111-40000-001.bootrom.ld
